@@ -1,0 +1,17 @@
+# Obsidian
+.obsidian/
+workspace.json
+workspace-*.json
+
+# Claude / Claudian
+.claude/
+.claudian/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp
+*.tmp
+*~
